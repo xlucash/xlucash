@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=xlucash)
 
 <img src="https://i.imgur.com/MU3egLE.png" alt="hello" height="250" width="1000" />
-<h2 align="center"> About me </h2>
+<h2 align="center"> About me 👋 </h2>
 <p>I' m currently a student of Computer Science and Econometrics at University of Gdańsk.<br>
 As for now I focus on improving my knowledge about Java. <br>
 My goal is to learn how to create plugins for Minecraft, <br>
