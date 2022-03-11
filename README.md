@@ -13,4 +13,6 @@ In the future I would love to work as a programmer in game development 💻. </p
 <img src="https://i.imgur.com/aEuSBl4.png" alt="hello" height="50" width="50" />
 <img src="https://i.imgur.com/I61kjLP.png" alt="hello" height="50" width="100" />
 <img src="https://i.imgur.com/loziR1A.png" alt="hello" height="50" width="50" />
- </p>
+</p>
+<h2>Contact</h2>
+<p>You can leave me a message via <a href="mailto:lukasz.pisarczyk02@gmail.com">Mail</a></p>
