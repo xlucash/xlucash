@@ -4,7 +4,7 @@
 <p>I' m currently a student of Computer Science and Econometrics at University of Gdańsk.<br>
 As for now I focus on improving my knowledge about Java 🎓. <br>
 My goal for now is to become Java Developer, <br>
-and in the near future to create plugins for Minecraft. <br>
+and in the near future to create plugins for Minecraft/Hytale. <br>
 In the future I would love to work as a programmer in game development 💻. </p>
 
 <h2 align="center">✨ Languages and tools ✨</h2>
