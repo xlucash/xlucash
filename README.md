@@ -1,9 +1,5 @@
 
 <img src="https://i.imgur.com/MU3egLE.png" alt="hello" height="250" width="1000" />
-<p align="center">
- <img src="https://badges.pufler.dev/repos/xlucash"/>
- <img src="https://badges.pufler.dev/commits/monthly/xlucash" />
-</p>
 <h2 align="center"> About me 👋 </h2>
 <p>I'm currently a student of Computer Science and Econometrics at University of Gdańsk.<br>
 As for now I focus on improving my knowledge about Java 🎓. <br>
