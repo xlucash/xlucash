@@ -20,11 +20,3 @@ My goal for now is to become Java Developer, and in the near future to create pl
 </p>
 <h2>Contact</h2>
 <p>You can leave me a message via Email: <a href="mailto:lukasz.pisarczyk02@gmail.com">lukasz.pisarczyk02@gmail.com</a></p>
-<h2 align="center">Github stats</h2>
-<p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xlucash&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=0" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xlucash&theme=chartreuse-dark">
-</p>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=xlucash&theme=chartreuse-dark">
-</p> 
