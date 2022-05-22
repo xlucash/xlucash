@@ -15,9 +15,11 @@ My goal for now is to become Java Developer, and in the near future to create pl
   <img src="https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=SQLite&logoColor=white&color=light_green"/>
 </p>
 <h1 align="center">Currently focused on learning...</h2>
+
 - OOP in Java <br>
 - HTML, CSS and JS <br>
 - Linux
+
 <h1 align="center">Contact</h2>
 <p>
   You can leave me a message via Email: <a href="mailto:lukasz.pisarczyk02@gmail.com">lukasz.pisarczyk02@gmail.com</a>
